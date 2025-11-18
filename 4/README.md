@@ -2,9 +2,9 @@
 Ứng dụng là một prototype bằng Flutter cho phép người dùng vẽ một tam giác với 3 đỉnh có thể di chuyển được bằng thao tác chạm và kéo. Hỗ trợ đa chạm — nhiều đầu ngón tay có thể kéo các đỉnh khác nhau cùng lúc. Ứng dụng sử dụng Listener để xử lý pointer events và CustomPainter để render tam giác và các điểm điều khiển.
 
 ## Mục tiêu dự án
-1.Triển khai cơ chế thao tác đa chạm (multi-touch) để điều khiển nhiều đối tượng cùng lúc.
-2.Cung cấp UI trực quan: hiển thị rõ ràng các đỉnh và cạnh tam giác.
-3.Viết code sạch, dễ bảo trì, có khả năng mở rộng (ví dụ thêm nhiều đỉnh, thay đổi màu, snap-to-grid...).
+- Triển khai cơ chế thao tác đa chạm (multi-touch) để điều khiển nhiều đối tượng cùng lúc.
+- Cung cấp UI trực quan: hiển thị rõ ràng các đỉnh và cạnh tam giác.
+- Viết code sạch, dễ bảo trì, có khả năng mở rộng (ví dụ thêm nhiều đỉnh, thay đổi màu, snap-to-grid...).
 
 ## Công nghệ sử dụng
 - Ngôn ngữ: Dart

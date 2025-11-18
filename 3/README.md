@@ -33,7 +33,6 @@ flutter:
 ```bash
 # 1. Clone repo
 git clone https://github.com/quangau6868/dethuchanhflutter.git
-cd james-flora-karaoke
 
 # 2. Get packages
 flutter pub get
@@ -52,7 +51,7 @@ flutter run
 </table>
 
 ## Kết luận
-- Dự án thể hiện khả năng:
+Dự án thể hiện khả năng:
 - Highlight chính xác 100% từ đầu đến cuối (đã test với file 50 giây, hơn 300 từ)
 - Độ trễ gần như bằng 0, mượt như app karaoke chuyên nghiệp
 
